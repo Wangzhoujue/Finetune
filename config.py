@@ -1,22 +1,22 @@
 # =====================================================
 # 模型路径
 # =====================================================
-MODEL_PATH = "D:/Develop/Models/Qwen3-4B"
-OUTPUT_MODEL_PATH = "D:/Develop/Models/Qwen3-4B-Merged"
+MODEL_PATH = "Your model's path"
+OUTPUT_MODEL_PATH = "Save model's path"
 
 # =====================================================
 # 数据路径
 # =====================================================
-DATASET_PATH = "data/new_train.jsonl"
+DATASET_PATH = "Your dataset's path"
 
 # =====================================================
 # 输出路径
 # =====================================================
 OUTPUT_DIR = "./output"
-FINAL_MODEL_DIR = "./output/qwen3_muxue_v2"
+FINAL_MODEL_DIR = "./output/final"
 
 # =====================================================
 # SwanLab(监测微调过程loss等参数的工具)
 # =====================================================
 SWANLAB_PROJECT = "qwen3-lora"
-SWANLAB_EXPERIMENT_NAME = "qwen3-4b-muxue-sft-v1"
+SWANLAB_EXPERIMENT_NAME = "qwen3-4b-sft-v1"
