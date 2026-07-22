@@ -1,4 +1,4 @@
-# Qwen3-0.6B QLoRA 微调
+# Qwen3-4B QLoRA 微调
 
 基于 **Hugging Face** 生态的 **Qwen3-4B** QLoRA 微调示例项目。
 
