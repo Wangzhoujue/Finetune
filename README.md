@@ -22,8 +22,10 @@ qwen_lora/
 │   ├── train-00000-of-00001.parquet
 │   └── test-00000-of-00001.parquet
 ├── output/
-├── train.py
-├── inference.py
+├── train.py    #训练入口
+├── pretrain.py    #再训练
+├── merge_lora.py    #合并LoRA适配器
+├── inference.py    
 ├── pyproject.toml
 ├── uv.lock
 ├── README.md
