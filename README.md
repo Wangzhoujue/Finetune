@@ -1,6 +1,6 @@
 # Qwen3-0.6B QLoRA 微调
 
-基于 **Hugging Face** 生态的 **Qwen3-0.6B** QLoRA 微调示例项目。
+基于 **Hugging Face** 生态的 **Qwen3-4B** QLoRA 微调示例项目。
 
 采用目前主流的大模型微调方案：
 
