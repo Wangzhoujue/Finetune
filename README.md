@@ -51,7 +51,13 @@ CUDA可用: True
 GPU: Your GPU Name
 ```
 ---
+
+## 下载模型
+### 运行``load_model.py``即可从Modelscope下载Qwen3_4B
+---
+
 ## 微调前准备
+
 ### 在powershell输入登录并粘贴你的 API Key
 ```
 swanlab login
