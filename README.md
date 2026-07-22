@@ -82,10 +82,3 @@ vllm serve meta-llama/Qwen3-4B-Merged \
 ### 若运行效果没达到预期可运行``pretrain.py``进行再次训练
 
 
-
-
-
-
-----
-如果觉得有帮助可以点个star
-
