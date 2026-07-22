@@ -24,9 +24,8 @@ qwen_lora/
 ├── output/
 ├── train.py    #训练入口
 ├── pretrain.py    #再训练
-├── merge_lora.py    #合并LoRA适配器
-├── inference.py    
-├── pyproject.toml
+├── merge_lora.py    #合并LoRA适配器 
+├── pyproject.toml   
 ├── uv.lock
 ├── README.md
 └── .gitignore
